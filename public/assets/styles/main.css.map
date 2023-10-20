@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"iBAII,mBACI,KAAA","file":"main.css","sourcesContent":["/* Estilos adicionales que no estén definidos en la hoja de estilos de aessia.org */\n\n.wp-block-card {\n\n    svg {\n        fill: var(--secondary);\n    }\n}"]}
