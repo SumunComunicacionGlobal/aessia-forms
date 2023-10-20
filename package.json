@@ -1,7 +1,7 @@
 {
   "name": "aessia",
   "version": "1.0.0",
-  "description": "Panel de gestión Gestión Colegial y Visado Electrónico del Colegio Oficial de Ingenieros Industriales de Aragón y La Rioja.",
+  "description": "Gestión de inscripciones a cursos",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
